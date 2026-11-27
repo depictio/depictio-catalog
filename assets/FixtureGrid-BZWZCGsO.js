@@ -1,0 +1,1 @@
+import{j as t}from"./vendor-base-BFfNKUuj.js";import{A as o}from"./vendor-aggrid-BxXn61P9.js";const i=({fixture:e})=>t.jsx(o,{rowData:e.rows,columnDefs:e.columns.map(r=>({field:r,headerName:r,sortable:!0,filter:!0,resizable:!0})),defaultColDef:{flex:1,minWidth:110,resizable:!0},suppressFieldDotNotation:!0});export{i as default};

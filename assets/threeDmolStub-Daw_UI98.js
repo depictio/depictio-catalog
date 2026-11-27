@@ -1,0 +1,1 @@
+const c=!0,t="3D preview unavailable in the catalog";function e(){throw new Error(t)}const o=e,r=e,a=e,n=e,i={createViewer:o,createViewerGrid:r,createStereoViewer:a,download:n};export{c as CATALOG_PREVIEW_STUB,t as PREVIEW_UNAVAILABLE_MESSAGE,a as createStereoViewer,o as createViewer,r as createViewerGrid,i as default,n as download};
